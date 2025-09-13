@@ -1,6 +1,3 @@
-&gt;                        Task 15: Intro to ML
-
-
 # Machine Learning Concepts Report
 
 ---
